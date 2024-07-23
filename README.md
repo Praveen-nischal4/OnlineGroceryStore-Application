@@ -1,8 +1,14 @@
+
 <h1 align="center"> GROCERY STORE Web Application</h1>
 
 <p> ➡️ Grocery Store is a web application built using the Spring Framework and MySQL database. It is designed to provide a realistic e-commerce experience for purchasing fruits, vegetables, drinks, and more. The application includes a comprehensive cart and billing module, simulating the 
   entire shopping process from selection to checkout. Additionally, users can download their bill as a PDF, adding to the convenience and realism of the shopping experience.
 To ensure security, the application utilizes Spring Security for authentication and authorization.</p>
+
+| Login | Menu | 
+| --- | --- | 
+| <img src="images/login.png" alt="myimage" width="500" height="500"/> | <img src="images/Menu.png" alt="myimage" width="500" height="500"/> | 
+| <img src="images/mybill.png" alt="mybill" width="300" height="300"/> | <img src="images/register.png" alt="myimage" width="800" height="500"/> |
 
 ## Features of Grocery Store
 
@@ -93,3 +99,32 @@ To ensure security, the application utilizes Spring Security for authentication 
 | Edit Item | /Myapplication-Default/editItems/1 |
 | Delete Item | /Myapplication-Default/deleteItems/32 |
  
+## More ScreenShots
+
+## ADMIN-HOME
+<img src="images/Admin-home.png" alt="myimage" width="900" height="500"/>
+
+## USER-HOME
+<img src="images/User-homepage.png" alt="myimage" width="900" height="500"/>
+
+## ADD-ITEM
+<img src="images/add-item.png" alt="myimage" width="900" height="500"/>
+
+
+## MENU - UserEnd
+<img src="images/Menu-user.png" alt="myimage" width="900" height="500"/>
+
+## CART -Shots
+## ADMIN-HOME
+<img src="images/emty cart.png" alt="myimage" width="900" height="500"/>
+
+<img src="images/Mycart.png" alt="myimage" width="900" height="500"/>
+
+## PAYMENT-CONFIRMATION
+<img src="images/Payment-confirmation.png" alt="myimage" width="900" height="500"/>
+
+## ORDERS
+<img src="images/Orders.png" alt="myimage" width="900" height="500"/>
+
+## BILLING
+<img src="images/mybill.png" alt="myimage" width="900" height="500"/>
