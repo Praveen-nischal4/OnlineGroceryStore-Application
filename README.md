@@ -64,7 +64,7 @@ To ensure security, the application utilizes Spring Security for authentication 
 
 | Frontend | Backend | Databse |
 | --- | --- | --- |
-| Html, css, Boostrap, jsp | Spring-framework, JDBC template | Mysql |
+| Html, css, Boostrap, jsp | Spring-framework, JDBC template, Spring-Security, Spring-MVC| Mysql |
 
 
 ## Database Schema
